@@ -1,6 +1,8 @@
 {   "name": "stylus"
   , "scripts": [
       "lib/path.js"
+    , "lib/fs.js"
+    , "lib/glob.js"
     , "lib/colors.js"
     , "lib/errors.js"
     , "lib/units.js"
